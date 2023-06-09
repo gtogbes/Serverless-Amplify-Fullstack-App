@@ -13,14 +13,14 @@ module "sample-qs" {
       username       = "Godstime"
       given_name     = "Ogbeide"
       family_name    = "cognetiks"
-      email          = "ogbes.osemenkhian@cognetiks.com"
+      email          = ""
       email_verified = true // no touchy
     },
     SasukeUchiha : {
       username       = "Ogbeide"
       given_name     = "Godstime"
       family_name    = "Ogbeide"
-      email          = "osemengt@gmail.com"
+      email          = ""
       email_verified = true // no touchy
     }
   }
