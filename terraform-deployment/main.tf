@@ -11,15 +11,15 @@ module "sample-qs" {
   sample_admin_cognito_users = {
     NarutoUzumaki : {
       username       = "Godstime"
-      given_name     = "Ogbeide"
-      family_name    = "cognetiks"
+      given_name     = "gtogbes"
+      family_name    = ""
       email          = ""
       email_verified = true // no touchy
     },
     SasukeUchiha : {
-      username       = "Ogbeide"
+      username       = "gtogbes"
       given_name     = "Godstime"
-      family_name    = "Ogbeide"
+      family_name    = ""
       email          = ""
       email_verified = true // no touchy
     }
